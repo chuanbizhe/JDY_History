@@ -26,9 +26,11 @@ https://jdy.dingdanduo.net/receive.php?token=example-plugin-token
 
 > 安全提示：不要把生产密码、API Key、应用密钥、插件 Token、服务器 IP、数据库导出文件或日志提交到 GitHub。
 
-## 许可证与授权
+## 版权、许可证与授权
 
-本项目采用 Apache-2.0，详见 [LICENSE](LICENSE)。该许可证允许使用、修改和再发布，并不要求使用前单独取得授权；如需部署授权、技术支持或商业合作，请联系 `boss@elohumo.com`。
+本项目原创代码、插件及配套文档版权归 `dingdanduo.net` 所有。本项目免费提供使用，但不保证使用效果；使用者应自行承担部署、配置、备份、安全维护及使用后果。
+
+本项目采用 Apache-2.0，详见 [LICENSE](LICENSE)；中文参考说明见 [LICENSE.zh-CN.md](LICENSE.zh-CN.md)。Apache-2.0 允许使用、修改和再发布，并不要求使用前单独取得授权。如需部署授权、技术支持或商业合作，请联系 `boss@elohumo.com`。
 
 简道云商标、第三方服务、外部 CDN 依赖和未确认授权的图片素材不属于本项目许可证授权范围。
 

@@ -1,0 +1,5 @@
+backend/.env
+backend/config.local.php
+*.log
+*.sql
+.DS_Store

@@ -13,13 +13,13 @@
 示例历史地址：
 
 ```text
-https://your-domain.example/history.php?token=example-plugin-token&serial_no=0000
+https://jdy.dingdanduo.net/history.php?token=example-plugin-token&serial_no=0000
 ```
 
 示例推送地址：
 
 ```text
-https://your-domain.example/receive.php?token=example-plugin-token
+https://jdy.dingdanduo.net/receive.php?token=example-plugin-token
 ```
 
 以上地址仅为脱敏示例，部署时必须替换为实际域名、插件 Token 和流水号。
@@ -110,14 +110,3 @@ https://your-domain.example/poll.php?token={HISTORY_CRON_TOKEN}
 ### 回滚失败
 
 确认回滚已开启、API Key 有编辑权限、表单结构已读取，并检查人员、部门、关联数据和子表单字段格式。
-
-## 8. 验收清单
-
-- [ ] 生产凭据未进入 Git；
-- [ ] HTTPS、PHP-FPM 和数据库正常；
-- [ ] 首次匹配和日常推送成功；
-- [ ] 同一流水号可产生多个版本；
-- [ ] 历史页可查看差异；
-- [ ] 回滚成功并产生新版本；
-- [ ] 定时同步正常；
-- [ ] 已配置备份、日志轮换和凭据轮换。

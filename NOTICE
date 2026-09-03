@@ -1,11 +1,10 @@
-JDY History
+JDY History 版权所有声明
 
-Copyright 2026 the JDY History contributors.
+本项目的原创代码、插件及配套文档版权归 dingdanduo.net 所有。
 
-The Apache-2.0 license applies only to original project code and documentation
-owned by the project contributors. Jiandaoyun trademarks, third-party services,
-external CDN libraries, and any unverified image assets are not licensed by this
-notice.
+本项目免费提供使用，但不保证在任何环境、任何简道云版本或任何业务场景下均能正常运行，也不对数据丢失、业务中断或其他使用后果承担责任。使用者应自行评估风险并负责部署、配置、备份和安全维护。
 
-For authorization, deployment support, or commercial cooperation, contact:
+Apache-2.0 仅适用于本项目权利人拥有的原创代码和文档。简道云商标、第三方服务、外部 CDN 库以及未确认授权的图片素材不在本声明的授权范围内。
+
+如需部署授权、技术支持或商业合作，请联系：
 boss@elohumo.com

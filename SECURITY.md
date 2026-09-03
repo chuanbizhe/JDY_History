@@ -1,5 +1,11 @@
-# Security notes
+# 安全说明
 
-Do not commit API keys, database passwords, application keys, receiver tokens, production domains, IP addresses, or exported data.
+请勿将 API 密钥、数据库密码、应用密钥、接收令牌、生产环境域名、IP 地址或导出数据提交到代码仓库。
 
-Configure secrets through server environment variables and rotate credentials from the original deployment before reuse.
+请通过服务器环境变量配置敏感信息，并在重新部署前更换原部署中使用过的凭据。
+
+如果发现安全问题，请先私下联系维护方，确认处理方案后再公开提交 Issue。
+
+安全问题、部署授权或技术支持请联系：
+
+boss@elohumo.com

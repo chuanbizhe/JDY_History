@@ -10,6 +10,8 @@
 - `backend/`：PHP 后端，负责接收推送、保存历史快照、查询版本、展示差异和执行回滚；
 - 历史数据存储：MySQL 的 `records` 与 `record_versions` 表。
 
+独立的“必读确认”弹窗已移至 [JDY-BixuRead](https://github.com/chuanbizhe/JDY-BixuRead) 仓库，不再随本仓库发布。
+
 示例历史地址：
 
 ```text
